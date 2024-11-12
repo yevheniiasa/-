@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Резюме Євгенії Савченко</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+        h1, h2 { color: #2e8b57; }
+        .contact-info, .experience, .skills, .education { margin-bottom: 20px; }
+        .section-title { font-weight: bold; font-size: 1.2em; }
+    </style>
+</head>
+<body>
+
+    <h1>Євгенія Савченко</h1>
+    <p>Менеджер освітнього онлайн проєкту "movy.project" | Відео-мейкер | Куратор англійської мови</p>
+
+    <div class="contact-info">
+        <h2 class="section-title">Контактна інформація</h2>
+        <p>Місто: Київ, Україна</p>
+        <p>Телефон: +38 (XXX) XXX-XX-XX</p>
+        <p>Email: your.email@example.com</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile">linkedin.com/in/yourprofile</a></p>
+    </div>
+
+    <div class="experience">
+        <h2 class="section-title">Досвід роботи</h2>
+        <h3>Менеджер проєкту, Відео-мейкер, Куратор англійської мови</h3>
+        <p>Освітній онлайн проєкт "movy.project"</p>
+        <p>Серпень 2023 – по сьогоднішній день</p>
+        <ul>
+            <li>Організація та управління освітніми процесами в проєкті.</li>
+            <li>Відповідальність за контент та зйомку відео для маркетингових та освітніх цілей.</li>
+            <li>Куратор англійської мови, робота з учнями рівня початковий – B2.</li>
+        </ul>
+    </div>
+
+    <div class="skills">
+        <h2 class="section-title">Навички</h2>
+        <ul>
+            <li>Вільне володіння українською та російською мовами.</li>
+            <li>Англійська мова рівень B1.</li>
+            <li>Відеомейкінг та створення освітнього контенту.</li>
+            <li>Проєктний менеджмент.</li>
+            <li>Навички комунікації та роботи в команді.</li>
+        </ul>
+    </div>
+
+    <div class="education">
+        <h2 class="section-title">Освіта</h2>
+        <p>Харківський національний університет імені В.Н. Каразіна</p>
+        <p>Спеціальність: Економіка, економічна кібернетика</p>
+        <p>2022 – 2026, місто Харків</p>
+    </div>
+
+    <div class="additional-info">
+        <h2 class="section-title">Додаткова інформація</h2>
+        <p>Розглядаю можливості для професійного розвитку у сфері продажів.</p>
+    </div>
+
+</body>
+</html>
